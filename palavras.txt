@@ -8,3 +8,5 @@ laranja
 tangerina
 bergamota
 tomate
+Pera
+Acerola
