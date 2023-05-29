@@ -3,3 +3,8 @@ melancia
 morango
 manga
 mamao
+abacate
+laranja
+tangerina
+bergamota
+tomate
