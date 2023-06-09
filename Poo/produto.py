@@ -1,2 +1,2 @@
 class Produto:
-    pass
+    print("Teste")
