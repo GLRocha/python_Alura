@@ -7,6 +7,8 @@ from datas import Data
 d = Data(21,11,2007)
 d.formatada()
 """
+
+
 class Data:
     def __init__(self, dia, mes, ano):
         self.dia = dia
