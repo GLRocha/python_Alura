@@ -7,3 +7,9 @@ class Cliente:
         print("Chamando @property nome()")
         return self.__nome.title()
 
+
+    @nome.setter
+    def nome(self, nome):
+        print("Chamando setter nome()")
+        self.__nome = nome
+
