@@ -8,3 +8,6 @@ class Pessoas:
     def __init__(self, nome, idade):
         self.__nome = nome
         self.__idade = idade
+
+    def retorna_dados(self):
+        print(f'{self.__nome}, {self.__idade}')
