@@ -7,7 +7,7 @@ total_de_tentativas = 3
 
 for rodada in range (1, total_de_tentativas + 1):
     print(f"Rodada {rodada}, de {total_de_tentativas} tentativas")
-    chute = int(input("Digite o seu número: "))
+    chute = int(input("Digite um numero entre 1 e 100: "))
     print(f"Você digitou {chute}")
 
     acertou = numero_secreto == chute
